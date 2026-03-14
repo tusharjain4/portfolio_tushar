@@ -1,0 +1,20 @@
+{
+  "name": "testing",
+  "role": "SDE",
+  "tagline": "Software Engineer dedicated to building scalable and efficient solutions",
+  "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLb3TY72rHh4VSJUR8UGa83p3ABg3FRBNrw&s",
+  "about": "I am a Software Development Engineer passionate about creating robust applications and solving complex technical challenges. With a focus on clean code and modern architecture, I strive to deliver high-quality software that drives results.",
+  "experience": 2,
+  "currentRole": "SDE",
+  "highlights": [
+    "Testing"
+  ],
+  "skills": [],
+  "projects": [],
+  "contact": {
+    "email": "tj@adizen.ai",
+    "linkedin": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186",
+    "github": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186",
+    "twitter": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186"
+  }
+}
